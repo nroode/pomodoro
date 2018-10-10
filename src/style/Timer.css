@@ -1,0 +1,23 @@
+#timer {
+    
+    /* width: 100%; */
+    /* border: 2px solid black; */
+    margin: 20px auto;
+    /* border: 4px solid #9CEC5B; */
+    border-radius: 30px;
+}
+
+#time-remaining {
+    font-size: 76px;
+    color: #6184D8;
+    text-shadow: 2px 2px 0px #F0F465;
+}
+
+button {
+    border-radius: 100%;
+    border: 4px solid #9CEC5B;
+    width: 60px;
+    height: 60px;
+    background: #50C5B7;
+    margin: 10px;
+}

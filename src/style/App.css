@@ -1,6 +1,26 @@
 .App {
   text-align: center;
+  
 }
+
+#App {
+  background: #50C5B7;
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  
+}
+
+#adjustTime{
+  display: flex;
+}
+
+body {
+  background-color: #533A71;
+  font-family: 'Space Mono', monospace;
+}
+
+/* 
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
@@ -29,4 +49,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
